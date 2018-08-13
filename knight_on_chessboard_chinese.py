@@ -16,8 +16,8 @@ trace=[]
 
 
 def inputxy():
-    initx=input'input x of the init point'()
-    inity=input'input y of the init point'()
+    initx=input('input x of the init point')
+    inity=input('input y of the init point')
     while True:
         if (initx in range(width))&(inity in range(height)):
             initp=(initx,inity)
