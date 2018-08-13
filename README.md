@@ -5,6 +5,10 @@
 用python稍稍实现了一下，网上给出的算法大多是c写的，离开大学以后很少用c了。
 然而深搜运算的时间还是很长的。
 
+knight_on_chessboard_world.py讨论了国际象棋盘8x8个点的情况
+knight_on_chessboard_chinese.py讨论了中国象棋盘9x10个点的情况
+
 Several days ago I talked with my schoolmates about the issue whether a knight on a chessboard has a path to go throught all the points without repeating on a same point. 
 I tried to solve it in python using dfs algorithm. 
 It cost my computer a long long time to work it out.
+
